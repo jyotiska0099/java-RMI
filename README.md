@@ -1,15 +1,15 @@
-#Implementation of Multiplication of two numbers in JAVA RMI
+Implementation of Multiplication of two numbers in JAVA RMI
 
-#Requirements : java, jvm
+Requirements : java, jvm
 
-#Directory tree:
+Directory tree:
 	-Multiplier.java
 	-MultiplierRemote.java
 	-README.md
 	-RmiClient.java
 	-RmiServer.java
 
-#Steps to follow to run:
+Steps to follow to run:
 	1. Compile all the java files 
 		(type in terminal "javac *.java")
 	2. Create stub and skeleton object by rmic tool 
